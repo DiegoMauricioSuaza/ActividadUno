@@ -26,3 +26,27 @@ El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
 juego fluida y atractiva.
 
 
+actualizacion video juego
+
+Didactik es un videojuego educativo diseñado para enseñar Matemáticas 
+a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
+La historia se desarrolla en el campo, un mundo lleno de misterios, desafíos y 
+personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del 
+juego está diseñado para combinar diversión y educación, permitiendo que los 
+estudiantes adquieran conocimientos de manera natural mientras exploran, 
+resuelven problemas y superan obstáculos.
+El protagonista de esta aventura es un niño, de campo que explora y aprende a medida que avanza en el juego. Joy es un/a  que ha sido elegido/a para una misión 
+única: Enseñar a otros niños el fascinante mundo de las matemáticas. Con su buena energía, Joy deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a 
+los jugadores conceptos clave de las matemáticas.
+El jugador podrá saltar obstáculos, para avanzar deberá realizar los problemas matemáticos y los desafíos 
+incluirán problemas de sumas y restas además saltos
+Los estudiantes avanzarán mediante. Cada nivel representa una dificultad adicional, y los jugadores recibirán retroalimentación inmediata sobre su 
+desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán a sumar mediante el conteo de frutas. Se reforzará 
+con restas de las misma a través de la resta y las evaluaciones se realizarán mediante 
+monedas de oro, lo que permitirá a los profesores y estudiantes medir el progreso de 
+manera efectiva.
+El juego se desarrollará usando java y tendrá soporte para 
+ Además, se implementarán características como 
+recompensa de diamantes para garantizar una experiencia de 
+juego fluida y atractiva.
